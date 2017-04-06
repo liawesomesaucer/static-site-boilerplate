@@ -1,0 +1,19 @@
+{
+  "name": "hackday2017",
+  "version": "1.0.0",
+  "description": "The home page for the SD Hacks Hack Day 2017",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SDHacks/HackDay2017.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SDHacks/HackDay2017/issues"
+  },
+  "homepage": "https://github.com/SDHacks/HackDay2017#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.9.1"
+  }
+}
