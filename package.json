@@ -1,19 +1,22 @@
 {
-  "name": "hackday2017",
+  "name": "staticsiteboilerplate",
   "version": "1.0.0",
-  "description": "The home page for the SD Hacks Hack Day 2017",
+  "description": "The home page of boilerplate",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SDHacks/HackDay2017.git"
+    "url": "git+https://github.com/liawesomesaucer/static-site-boilerplate.git"
   },
   "bugs": {
-    "url": "https://github.com/SDHacks/HackDay2017/issues"
+    "url": "https://github.com/liawesomesaucer/static-site-boilerplate/issues"
   },
-  "homepage": "https://github.com/SDHacks/HackDay2017#readme",
+  "homepage": "https://github.com/liawesomesaucer/static-site-boilderplate#readme",
   "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "ecstatic": "^3.1.1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-sass": "^2.3.2",
-    "gulp-sourcemaps": "^1.9.1"
+    "gulp-sourcemaps": "^1.12.1",
+    "http": "0.0.0"
   }
 }
